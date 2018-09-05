@@ -10,6 +10,7 @@
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "*",
         "symfony/http-foundation": "*",
+        "symfony/orm-pack": "^1.0",
         "symfony/twig-bundle": "*",
         "symfony/yaml": "*"
     },
